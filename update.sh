@@ -8,6 +8,4 @@ echo "))}> Moving new data..."
 mv PacMan/data ./
 echo "))}> Deleting Repo..."
 rm -rf PacMan
-echo "))}> Creating pack zip..."
-zip -qr Ithavollr_Data.zip data pack.mcmeta pack.png
 echo "))}> All done!"
